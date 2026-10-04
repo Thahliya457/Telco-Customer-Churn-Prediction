@@ -30,3 +30,8 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Git
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+
+## App Preview
+![App form](app1.png)
+![App form continued](app2.png)
+![Prediction result](app3.png)
